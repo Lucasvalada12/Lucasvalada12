@@ -1,7 +1,7 @@
 ## Hi my name is Lucas Valadares!
 
 - :mortar_board: Computer Science student.
-- :four_leaf_clover: Brazilian,backt-end developer, curious, learning and exploring.
+- :four_leaf_clover: Brazilian,back-end developer, curious, learning and exploring.
 - :computer: Java, Javascript, MySql.
 - :watch: Listen to music, cook, watch animes, code, play games.
 
